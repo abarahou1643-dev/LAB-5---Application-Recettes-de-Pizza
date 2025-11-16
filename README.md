@@ -57,19 +57,9 @@ app/src/main/java/com/example/pizzarecipes/
 
 ---
 
-##  Ressources
 
-### Google Drive
-```
-  PizzaRecipes_Resources/
-├──  Documentation.pdf
-├──  Maquettes_Figma/
-├──  APK_Builds/
-├──  Assets_Images/
-└──  Database_Export/
-```
 
-**Lien Drive** : https://drive.google.com/file/d/1DOGgwiW4CIZ2l62dR_oHIIXHeDt9ruEP/view?usp=sharing
+https://github.com/user-attachments/assets/8e8c95ee-309e-4020-bb42-b1491b0e1810
 
----
+
 
